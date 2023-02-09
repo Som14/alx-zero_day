@@ -1,1 +1,1 @@
-Chisom is here
+Chisom is here. My first edited readme.
